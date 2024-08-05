@@ -1,0 +1,12 @@
+html {
+    background-color: rgba(0, 255, 157, 0.644);
+}
+
+h1 {
+    color: green;
+}
+.belement {
+    border: 3px solid black;
+    width: 300px;
+    aspect-ratio: 1;
+}
